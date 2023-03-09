@@ -3,3 +3,4 @@ For this folder the files are going to be displaying various commands that alter
 2: Check for the groups the user is in
 3: Change ownership.
 4: Create empty file
+5: Change file to executable
