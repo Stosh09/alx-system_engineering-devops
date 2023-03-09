@@ -6,3 +6,4 @@ For this folder the files are going to be displaying various commands that alter
 5: Change file to executable
 6: Change permission on files for all users.
 7: Change permission for everyone without using commas.
+8: Alter permissions
