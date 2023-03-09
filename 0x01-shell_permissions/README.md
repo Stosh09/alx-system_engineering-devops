@@ -4,3 +4,4 @@ For this folder the files are going to be displaying various commands that alter
 3: Change ownership.
 4: Create empty file
 5: Change file to executable
+6: Change permission on files for all users.
